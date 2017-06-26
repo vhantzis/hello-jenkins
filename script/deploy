@@ -7,4 +7,3 @@ ssh jenkins@192.168.1.201 <<EOF
   pm2 restart app.js
   exit
 EOF
-s
